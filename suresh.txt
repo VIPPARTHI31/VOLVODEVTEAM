@@ -1,2 +1,4 @@
 hi 
 this is first line of code
+this is second line
+for merge testing and conflict
